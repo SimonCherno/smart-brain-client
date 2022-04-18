@@ -1,0 +1,17 @@
+.img-wrapper {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+.img-container {
+  width: 500px;
+  position: relative;
+}
+.face-img {
+  width: 500px;
+  height: auto;
+}
+.border-box {
+  position: absolute;
+  border: 5px solid purple;
+}
